@@ -1,2 +1,2 @@
 # ABSwPython
-Exercises from Al Sweigart's book Automate the Boring Stuff with Python.
+Exercises from Al Sweigart's book _Automate the Boring Stuff with Python_.
