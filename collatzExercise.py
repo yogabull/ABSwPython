@@ -8,8 +8,9 @@ It should keep calling the new number until it returns an even number.
 
 def title():
     print('_____________________________')
-    print('______ Collatz Sequence _____')
     print('_____________________________')
+    print('______ Collatz Sequence _____')
+    print('_____________________________\n')
 
 
 def intro():# This asks for user to input a number.
