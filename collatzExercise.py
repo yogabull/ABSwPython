@@ -13,7 +13,7 @@ def title():
 
 
 def intro():# This asks for user to input a number.
-    number = input('Please enter a number: ')
+    number = int(input('Please enter a number: '))
     return number
 
 
@@ -35,7 +35,7 @@ def close(number):
 def main():
     title()
     number = intro()
-    collatz_func(int(number))
-    # close(int(number))
+    collatz_func(number)
+    close(number)
 
 main()
